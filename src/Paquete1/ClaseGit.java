@@ -7,6 +7,8 @@ public class ClaseGit {
 
 		System.out.println("Arriba los Pumas");
 		System.out.println("GIT Prueba");
+		String Nombre = "Fer";
+		
 	}
 
 }
